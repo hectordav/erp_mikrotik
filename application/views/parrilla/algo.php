@@ -1,0 +1,17 @@
+txt_pregunta_esp
+txt_respuesta_1_esp
+txt_respuesta_2_esp
+txt_respuesta_3_esp
+txt_respuesta_4_esp
+
+txt_pregunta_cata
+txt_respuesta_1_cata
+txt_respuesta_2_cata
+txt_respuesta_3_cata
+txt_respuesta_4_cata
+
+txt_pregunta_eng
+txt_respuesta_1_eng
+txt_respuesta_2_eng
+txt_respuesta_3_eng
+txt_respuesta_4_eng
